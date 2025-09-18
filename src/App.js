@@ -1,5 +1,4 @@
 
-import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router";
 import WelcomeScreen from "./component/WelcomeScreen"
 import AccountSettings from './component/AccountSettings';
